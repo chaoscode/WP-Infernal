@@ -1,0 +1,12 @@
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\bin\Debug\WP-Infernal.exe.config
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\bin\Debug\WP-Infernal.exe
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\bin\Debug\WP-Infernal.pdb
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP_Infernal.Properties.Resources.resources
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP-Infernal.csproj.GenerateResource.cache
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP-Infernal.csproj.CoreCompileInputs.cache
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP-Infernal.exe
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP-Infernal.pdb
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP_Infernal.MainForm.resources
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chaoscode\source\repos\WP-Infernal\WP-Infernal\obj\Debug\WP-Infernal.csproj.AssemblyReference.cache
